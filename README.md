@@ -10,9 +10,21 @@ Soy un **Científico de Datos** y **Programador** apasionado por descubrir los s
 
 Aquí te presento las tecnologías y herramientas con las que trabajo:
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Dash](https://img.shields.io/badge/-Dash-00354A?style=flat&logo=plotly&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-2C3E50?style=flat&logo=mlflow&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,java,c,docker,scikitlearn,pandas,numpy,seaborn,plotly,dash,mlflow,react,tailwind,flask&perline=8" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy,seaborn,plotly,dash,mlflow&perline=8" />
 </p>
+
 
 * **Lenguajes de Programación:** Python, SQL, Java, C
 * **Contenedores:** Docker
@@ -25,19 +37,12 @@ Aquí te presento las tecnologías y herramientas con las que trabajo:
 ## 🚀 Proyectos Destacados
 
 Me enorgullece compartir algunos de mis proyectos más importantes:
-
-### 1. Monitorización y Predicción Multimodal del Alzheimer
-
-Un proyecto de investigación y desarrollo centrado en el análisis y la creación de un **modelo predictivo para la monitorización del Alzheimer**, utilizando un enfoque multimodal para integrar diferentes tipos de datos.
-
-[Ver Repositorio](https://github.com/AbrahamTartalos/alzheimer-multimodal-monitoring)
+### ✨ [Monitorización y Predicción Multimodal del Alzheimer](https://github.com/AbrahamTartalos/alzheimer-multimodal-monitoring)
+Proyecto end-to-end de ciencia de datos con enfoque en salud digital. Integra datos biomédicos y modelos predictivos para apoyar el diagnóstico temprano del Alzheimer.
 
 
-### 2. Predicción del Aterrizaje de Cohetes Falcon9 de SpaceX
-
-Un proyecto enfocado en la **predicción del éxito de aterrizajes de los cohetes Falcon9 de SpaceX**, aplicando técnicas de ciencia de datos para modelar y analizar factores clave.
-
-[Ver Repositorio](https://github.com/AbrahamTartalos/prediccion-aterrizaje-falcon9-spacex)
+### ✨ [Predicción del Aterrizaje de Cohetes Falcon9 de SpaceX](https://github.com/AbrahamTartalos/prediccion-aterrizaje-falcon9-spacex)
+Modelo de clasificación para predecir si un cohete Falcon 9 aterrizará correctamente, utilizando datos de lanzamientos reales y visualizaciones interactivas.
 
 ---
 
