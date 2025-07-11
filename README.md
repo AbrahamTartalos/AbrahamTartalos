@@ -21,9 +21,6 @@ Aquí te presento las tecnologías y herramientas con las que trabajo:
 ![MLflow](https://img.shields.io/badge/-MLflow-2C3E50?style=flat&logo=mlflow&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy,seaborn,plotly,dash,mlflow&perline=8" />
-</p>
 
 
 * **Lenguajes de Programación:** Python, SQL, Java, C
