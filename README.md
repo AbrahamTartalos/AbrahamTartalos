@@ -20,7 +20,6 @@ Aquí te presento las tecnologías y herramientas con las que trabajo:
 ![Dash](https://img.shields.io/badge/-Dash-00354A?style=flat&logo=plotly&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-2C3E50?style=flat&logo=mlflow&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 
 * **Lenguajes de Programación:** Python, SQL, Java, C
